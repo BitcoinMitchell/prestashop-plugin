@@ -18,6 +18,8 @@ This is a Bitcoin payment plugin for PrestaShop using BTCPay server. [BTCPay Ser
 * Prestashop 1.7.7.x
 * BTCPay server v1.0.6.4
 
+**Note**: The legacy version can be found at [prestashop-plugin-legacy](https://github.com/btcpayserver/prestashop-plugin-legacy) and will not recieve any further support at this time.
+
 ## Internals
 
 This plugin support creating orders before or after payment. That said the `before`-mode still requires a callback from the BTCPay server itself so that all relevant data is available during order creation.
