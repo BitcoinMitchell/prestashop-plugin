@@ -4,11 +4,10 @@
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/btcpayserver/prestashop-plugin/Validate/master?style=flat-square)](https://github.com/btcpayserver/prestashop-plugin/actions)
 [![GitHub License](https://img.shields.io/github/license/btcpayserver/prestashop-plugin?color=brightgreen&style=flat-square)](https://github.com/btcpayserver/prestashop-plugin/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/btcpayserver/prestashop-plugin?style=flat-square)](https://github.com/btcpayserver/prestashop-plugin/graphs/contributors)
+
+[![PrestaShop module version](https://img.shields.io/badge/module%20version-4.0.0-brightgreen?style=flat-square)](https://github.com/btcpayserver/prestashop-plugin/releases)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/btcpayserver/prestashop-plugin?sort=semver&style=flat-square)](https://github.com/btcpayserver/prestashop-plugin/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/btcpayserver/prestashop-plugin/total?style=flat-square)](https://github.com/btcpayserver/prestashop-plugin/releases)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/btcpayserver?color=brightgreen&label=Follow%20%40BTCPayServer&style=flat-square)](https://twitter.com/btcpayserver)
-[![BTCPay Server Community](https://img.shields.io/badge/chat-mattermost-brightgreen?style=flat-square)](https://chat.btcpayserver.org/btcpayserver)
 
 
 This is a Bitcoin payment plugin for PrestaShop using BTCPay server. [BTCPay Server](https://btcpayserver.org) is a free and open source server for merchants wanting to accept Bitcoin for their business.
@@ -41,6 +40,9 @@ Main community chat is located on [Mattermost](https://chat.btcpayserver.org/).
 To get up and running with our plugin quickly, see the [GUIDE](GUIDE.md).
 
 ## Contributing
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/btcpayserver?color=brightgreen&label=Follow%20%40BTCPayServer&style=flat-square)](https://twitter.com/btcpayserver)
+[![BTCPay Server Community](https://img.shields.io/badge/chat-mattermost-brightgreen?style=flat-square)](https://chat.btcpayserver.org/btcpayserver)
 
 BTCPay is built and maintained entirely by volunteer contributors around the internet. We welcome and appreciate new contributions.
 
